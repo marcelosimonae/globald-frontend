@@ -1,0 +1,48 @@
+credentials:
+  usernames:
+    admin:
+      email: contato@globad.ai
+      name: Admin
+      password: '$2b$12$etHgOt2yr9wFWA4OlsvYoOQYtg1rLLuslLqIUJ/jctjCJq7.S4Gki'
+    globald:
+      email: contato@globad.ai
+      name: globald
+      password: '$2b$12$FaJpXc40wMfr2WxqsQgyA.NvF7b7gqWO27q4nem78qG1ans1Z.Uyi'
+    globald2550:
+      email: contato@globad.ai
+      name: globald2550
+      password: '$2b$12$Q1USgnAkeMV0IEU3fp6P7e3o89K.lGZe5K7R/NMusIPSIkfDpwfEC'
+    globald2551:
+      email: contato@globad.ai
+      name: globald2551
+      password: '$2b$12$iUQIDSLp1KXLRJYup4.iIebvY2HzXhYrhwWBTnKqmpPbu17kd50ZS'
+    globald2552:
+      email: contato@globad.ai
+      name: globald2552
+      password: '$2b$12$scrLgCSDBX.bsvep6zqgleHN1SyMxIX4RJ146.mRRz0G0Oim4/dz6'
+    globald2553:
+      email: contato@globad.ai
+      name: globald2553
+      password: '$2b$12$Npj6cnsGTYllSDi2ZTMVM.c5NR9RmROxuj7AW8ndUW3VFVz503yxy'
+    globald2554:
+      email: contato@globad.ai
+      name: globald2554
+      password: '$2b$12$Kg2UjGhIEoOfXpVrfaAKPOVCpZX65rwfbO.gqV/vd8ngM9rbJauVW'
+    globald2555:
+      email: contato@globad.ai
+      name: globald2555
+      password: '$2b$12$X/eQFIyQyu79stHaoTkg7eyQPU5TFavDNnWKg4.rm/Nsg2x0iTEyS'
+    globald2556:
+      email: contato@globad.ai
+      name: globald2556
+      password: '$2b$12$/JhaRpmmnEZm0PG84AvSXuuawWPxoHvk4cpgbF2FXy2b.01vMw1iO'
+    globald2557:
+      email: contato@globad.ai
+      name: globald2557
+      password: '$2b$12$Lgw0H8rQ4A/BxXd4yVwXpOiQIATdN6v9S2cP05vCefk2Fv.upuB52'
+    
+cookie:
+  expiry_days: 30
+  key: random_signature_key # Must be string
+  name: random_cookie_name
+preauthorized:

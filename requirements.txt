@@ -1,0 +1,5 @@
+streamlit
+requests
+pyyaml
+streamlit-authenticator
+pandas
